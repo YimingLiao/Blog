@@ -2,12 +2,13 @@
 
 计划整理以下几个部分
 
-CSS/HTML基础
-JS基础
-nodejs
-Vue
-数据结构与算法
-设计模式
+### 1.CSS/HTML基础
+### 2.JS基础
+### 3.nodejs
+### 4.Vue
+### 5.数据结构与算法
+### 6.设计模式
+
 [跳转方法](https://github.com/YimingLiao/Lmino.github.io/edit/main/README.md)
  [Jekyll](https://jekyllrb.com/)
 
