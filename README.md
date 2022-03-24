@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Lmino的学习笔记
 
-You can use the [editor on GitHub](https://github.com/YimingLiao/Lmino.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+计划整理以下几个部分
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CSS/HTML基础
+JS基础
+nodejs
+Vue
+数据结构与算法
+设计模式
+[跳转方法](https://github.com/YimingLiao/Lmino.github.io/edit/main/README.md)
+ [Jekyll](https://jekyllrb.com/)
 
 ### Markdown
 
